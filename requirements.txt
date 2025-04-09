@@ -325,7 +325,7 @@ pygit2==1.17.0
 Pygments==2.18.0
 pygtrie==2.5.0
 PyJWT==2.10.1
-pymongo==4.3.3
+pymongo==4.12.0
 pyogrio==0.10.0
 pyparsing==3.1.4
 pypdfium2==4.30.1
